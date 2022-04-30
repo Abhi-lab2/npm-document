@@ -1,7 +1,7 @@
 # npm-document
 # random-number
 
-### install
+### install.
 ## npm i random-number-generator-masai
 
 JavaScript's Math.random() function tends to generate the same number at times. This random() function has a low chance of returning the same number twice, but still maintains that chance.
